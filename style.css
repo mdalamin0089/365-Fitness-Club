@@ -1,0 +1,189 @@
+*
+{
+   padding: 0;
+    margin:0; 
+}
+
+/*----------About Us----------*/
+#about
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#about .col-mid-6
+{
+    padding:20px 10px;
+}
+about h3
+{
+    margin: 20px auto;
+}
+/*----------Services----------*/
+#services
+{
+     background-color:#D0D3D4;
+    padding-top:50px;
+    padding-bottom: 50px;
+
+}
+#services .col-md-4
+{
+    padding:20px;
+}
+#services .col-md-4 h4
+{
+    padding: 5px;
+}
+#services.col-md-4 img
+{
+    width:50px;
+}
+#services .col-md-4 p
+{
+    padding: 5px;
+    text-align: justify;
+}
+/*----------Features----------*/
+#features
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#features .col-md-6
+{
+    padding-top: 50px;
+}
+.feature-box
+{
+    height: 150px;
+    padding-left:300px;
+}
+.feature-box.feature-left
+{
+    height: 150px;
+    float: left;
+}
+.feature-box.feature-left.fa
+{
+    padding-top: 50px;
+    font-size: 70px;
+}
+.feature-box.feature-right
+{
+    height: 150px;
+    width: 100%;
+    float: left;
+}
+.feature-box .feature-left h4
+{
+    padding-top:25px;
+    padding-left:50px;
+    text-align: left;
+}
+.feature-box .feature-left p
+{
+    text-align: left
+}
+/*----------Testimonials----------*/
+#testimonials
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#testimonials .col-md-4
+{
+    padding: 30px;
+}
+#testimonials img
+{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-left: -30px;
+    margin-top: -40px;
+    border: 5px solid #fff;
+    margin-bottom: 30px;
+}
+.review
+{
+    font-size: 16px;
+    padding: 10px 10px 10px 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.2)
+}
+.review .fa-twitter
+{
+    color: #013f7e;
+}
+#testimonials span
+{
+    color:  #013f7e;
+    font-weight: 600;
+    font-size: 18px;
+}
+#testimonials h1
+{
+    margin-bottom: 20px;
+    color: #013f7e;
+}
+#testimonials p
+{
+    padding-bottom: 30px;
+}
+#testimonials.middle
+{
+    margin-bottom: -30px;
+    margin-top: -30px;
+}
+
+
+/*----------Footer----------*/
+
+#footer
+{
+    margin-top: 80px;
+    padding: 100px;
+    background-color: #efefef;
+    color: #013f7e;
+    margin-bottom: -200px;
+}
+#footer h1
+{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+#footer  p
+{
+    font-size: 15px;
+    text-align: left;
+}
+#footer .city
+{
+    margin-left: 10px;
+    
+}
+#footer .raw .fa
+{
+    padding-left: 20px;
+    font-size: 15px;
+}
+#footer hr
+{
+    margin-top: 10px;
+}
+#footer .fa-heart-o
+{
+    color: red;
+    font-size: 20px;
+}
+#footer .copyright
+{
+    margin-bottom: -80px;
+    text-align: center;
+    font-size: 20px;
+}
